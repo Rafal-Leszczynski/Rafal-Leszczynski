@@ -24,7 +24,7 @@ int main(void)
 
 
 🤙  if (you_reach_me=="yes")
-  cout <<" rafal_leszczynski87@wp.pl / https://www.facebook.com/vini.vini.vini.vini.vini/ "<<endl; 
+  cout <<" rafal_leszczynski87@wp.pl / (https://www.facebook.com/RafalLeszczynskiFB) "<<endl; 
 
 👋	else 
   cout <<" See you "<<endl; 
