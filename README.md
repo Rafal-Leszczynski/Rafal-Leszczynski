@@ -1,4 +1,5 @@
 info.h
+{
 #ifndef INFO_H
 #define INFO_H
 
@@ -15,6 +16,7 @@ void printOther();
 void printBioLoop();
 
 #endif // INFO_H
+}
 
 info.cpp
 #include <iostream>
