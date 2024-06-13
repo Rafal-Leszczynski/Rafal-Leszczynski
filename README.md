@@ -4,15 +4,15 @@ info.h
 
 #include <string>
 
-void printInfo();
-void printInterests();
-void printContact();
-void printGoodbye();
-void printEmployment();
-void printPortfolio();
-void printTechnicalSkills();
-void printOther();
-void printBioLoop();
+void printInfo(); 
+void printInterests(); 
+void printContact(); 
+void printGoodbye(); 
+void printEmployment(); 
+void printPortfolio(); 
+void printTechnicalSkills(); 
+void printOther(); 
+void printBioLoop(); 
 
 #endif // INFO_H
 
