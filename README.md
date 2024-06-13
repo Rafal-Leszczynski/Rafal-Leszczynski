@@ -1,18 +1,19 @@
+```cpp
 info.h
 #ifndef INFO_H
 #define INFO_H
 
 #include <string>
 
-void printInfo(); 
-void printInterests(); 
-void printContact(); 
-void printGoodbye(); 
-void printEmployment(); 
-void printPortfolio(); 
-void printTechnicalSkills(); 
-void printOther(); 
-void printBioLoop(); 
+void printInfo();
+void printInterests();
+void printContact();
+void printGoodbye();
+void printEmployment();
+void printPortfolio();
+void printTechnicalSkills();
+void printOther();
+void printBioLoop();
 
 #endif // INFO_H
 
@@ -179,3 +180,5 @@ int main()
 
     return 0;
 }
+
+```
