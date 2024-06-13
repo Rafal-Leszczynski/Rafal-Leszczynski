@@ -5,7 +5,6 @@ info.h
 #include <string>
 
 void printInfo();
-
 void printInterests();
 void printContact();
 void printGoodbye();
