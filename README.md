@@ -1,7 +1,7 @@
 ```cpp
-info.h
-#ifndef INFO_H
-#define INFO_H
+info.hpp
+#ifndef INFO_HPP
+#define INFO_HPP
 
 #include <string>
 
@@ -168,7 +168,7 @@ void printBioLoop()
 
 main.cpp
 #include <iostream>
-#include "info.h"
+#include "info.hpp"
 
 int main()
 {
